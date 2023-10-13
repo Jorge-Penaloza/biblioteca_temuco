@@ -1,0 +1,1 @@
+CREATE DATABASE `biblioteca` /*!40100 DEFAULT CHARACTER SET utf8 */;
